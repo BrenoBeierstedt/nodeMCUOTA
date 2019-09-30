@@ -9,8 +9,8 @@
 #define STAPSK  "your-password"
 #endif
 
-const char* ssid = "ap_301";
-const char* password = "123321123";
+const char* ssid = "your_ap";
+const char* password = "your_password";
 ESP8266WebServer server;
 
 bool ota_flag = true;
